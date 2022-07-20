@@ -19,7 +19,7 @@ This is a directory for all of the lesson demos I've completed as a lecturer.
 [Cryptography and Security](https://github.com/jorovernier/cryptography-demo)
 
 ## **Week 5**
-*Coming Soon*
+[SQL 2](https://github.com/jorovernier/sql-2-demo)
 
 ## **Week 6**
 [Automation](https://github.com/jorovernier/automation-demo)

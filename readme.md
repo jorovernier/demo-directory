@@ -23,3 +23,5 @@ This is a directory for all of the lesson demos I've completed as a lecturer.
 
 ## **Week 6**
 [Automation](https://github.com/jorovernier/automation-demo)
+
+[Deployment](https://github.com/jorovernier/deployment-demo)

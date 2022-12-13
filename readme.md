@@ -3,6 +3,8 @@
 This is a directory for all of the lesson demos I've completed as a lecturer.
 
 ## **Week 1**
+[Running Code](https://github.com/jorovernier/running-code-demo)
+
 [Making Decisions 2](https://github.com/jorovernier/md2-demo)
 
 ## **Week 2**

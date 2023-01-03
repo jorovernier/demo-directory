@@ -13,6 +13,8 @@ This is a directory for all of the lesson demos I've completed as a lecturer.
 [Functions 2](https://github.com/jorovernier/functions-two-demo)
 
 ## **Week 3**
+[HTML & CSS 1](https://github.com/jorovernier/html-css-1-demo)
+
 [HTML & CSS 2](https://github.com/jorovernier/html-css-2-demo)
 
 [Interactive Web Pages 1](https://github.com/jorovernier/interactive-one)

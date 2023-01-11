@@ -22,7 +22,7 @@ This is a directory for all of the lesson demos I've completed as a lecturer.
 ## **Week 4**
 [Back End 2](https://github.com/jorovernier/back-end-2-demo)
 
-[Cryptography and Security](https://github.com/jorovernier/cryptography-demo)
+[Cryptography and Security](https://github.com/jorovernier/cryptography-security-demo)
 
 ## **Week 5**
 [SQL 2](https://github.com/jorovernier/sql-2-demo)

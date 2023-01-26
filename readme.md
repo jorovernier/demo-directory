@@ -31,3 +31,5 @@ This is a directory for all of the lesson demos I've completed as a lecturer.
 [Automation](https://github.com/jorovernier/automation-demo)
 
 [Deployment](https://github.com/jorovernier/deployment-demo)
+
+[DevOps](https://github.com/jorovernier/rollbar-demo)

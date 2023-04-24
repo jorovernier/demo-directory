@@ -2,14 +2,14 @@
 
 This is a directory for all of the lesson demos I've completed as a lecturer.
 
+---
+
 ## **Week 1**
 [Running Code](https://github.com/jorovernier/running-code-demo)
 
 [Making Decisions 2](https://github.com/jorovernier/md2-demo)
 
 ## **Week 2**
-[Functions 1](https://github.com/jorovernier/functions-one-demo)
-
 [Functions 2](https://github.com/jorovernier/functions-two-demo)
 
 ## **Week 3**
@@ -30,6 +30,13 @@ This is a directory for all of the lesson demos I've completed as a lecturer.
 ## **Week 6**
 [Automation](https://github.com/jorovernier/automation-demo)
 
-[Deployment](https://github.com/jorovernier/deployment-demo)
-
 [DevOps](https://github.com/jorovernier/rollbar-demo)
+
+---
+
+# Old Versions
+[Functions 1](https://github.com/jorovernier/functions-one-demo-old)
+
+[Deployment](https://github.com/jorovernier/deployment-demo-old)
+
+[Automation](https://github.com/jorovernier/automation-demo-old)

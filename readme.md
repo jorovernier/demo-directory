@@ -12,6 +12,8 @@ This is a directory for all of the lesson demos I've completed as a lecturer.
 [Making Decisions 2](https://github.com/jorovernier/md2-demo)
 
 ## **Week 2**
+[Functions 1](https://github.com/jorovernier/functions-one-demo)
+
 [Functions 2](https://github.com/jorovernier/functions-two-demo)
 
 [Functions 3](https://github.com/jorovernier/functions-three-demo)

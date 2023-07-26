@@ -25,7 +25,7 @@ This is a directory for all of the lesson demos I've completed as a lecturer.
 
 [HTML & CSS 2](https://github.com/jorovernier/html-css-2-demo)
 
-[Interactive Web Pages 1](https://github.com/jorovernier/interactive-one)
+[JS Interactivity](https://github.com/jorovernier/js-interactivity-demo)
 
 ## **Week 4**
 [Back End 1](https://github.com/jorovernier/back-end-1-demo)

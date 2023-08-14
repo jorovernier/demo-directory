@@ -38,6 +38,8 @@ This is a directory for all of the lesson demos I've completed as a lecturer.
 [SQL 2](https://github.com/jorovernier/sql-2-demo)
 
 ## **Week 6**
+[QA & Testing](https://github.com/jorovernier/qa-testing-demo)
+
 [Automation](https://github.com/jorovernier/automation-demo)
 
 [DevOps](https://github.com/jorovernier/rollbar-demo)

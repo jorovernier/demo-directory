@@ -46,9 +46,10 @@ This is a directory for all of the lesson demos I've completed as a lecturer.
 
 ---
 
-# Old Versions
-[Functions 1](https://github.com/jorovernier/functions-one-demo-old)
+# Unit Reviews
+[Week 6](https://github.com/jorovernier/week-6-review-done)
 
-[Deployment](https://github.com/jorovernier/deployment-demo-old)
+---
 
-[Automation](https://github.com/jorovernier/automation-demo-old)
+# Old Demos
+[Python](https://github.com/jorovernier/data-python-demo)

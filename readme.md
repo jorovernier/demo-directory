@@ -37,7 +37,7 @@ This is a directory for all of the lesson demos I've completed as a lecturer.
 [Cryptography and Security](https://github.com/jorovernier/cryptography-security-demo)
 
 ## **Week 5**
-SQL 1 ~Coming soon!~
+[SQL 1](https://github.com/jorovernier/sql-1-demo)
 
 [Data Modeling](https://github.com/jorovernier/data-modeling-demo)
 
